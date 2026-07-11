@@ -139,7 +139,3 @@ jupyter notebook
 ## Author
 
 **Nikhil Kumar Babu Jinka**
-
-Aspiring Data Analyst
-
-Feel free to connect with me on LinkedIn or GitHub.
