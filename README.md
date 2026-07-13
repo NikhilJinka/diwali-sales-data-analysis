@@ -77,54 +77,6 @@ The project includes visualizations for:
 
 > Screenshots of these visualizations are available in the **images/** folder.
 
----
-
-## Project Structure
-
-```
-diwali-sales-analysis/
-│
-├── data/
-│   └── Diwali Sales Data.csv
-│
-├── notebook/
-│   └── Diwali_Sales_Analysis.ipynb
-│
-├── images/
-│   ├── gender_analysis.png
-│   ├── age_group_analysis.png
-│   ├── state_analysis.png
-│   ├── occupation_analysis.png
-│   └── product_category_analysis.png
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
-## How to Run the Project
-
-1. Clone the repository.
-
-```
-git clone https://github.com/your-username/diwali-sales-analysis.git
-```
-
-2. Install the required libraries.
-
-```
-pip install -r requirements.txt
-```
-
-3. Open the Jupyter Notebook.
-
-```
-jupyter notebook
-```
-
-4. Run **Diwali_Sales_Analysis.ipynb**
 
 ---
 
